@@ -48,6 +48,7 @@
     "@tarojs/cli": "3.4.0",
     "@tarojs/mini-runner": "3.4.0",
     "@tarojs/plugin-platform-weapp-qy": "0.0.7",
+    "@tarojs/plugin-vue-devtools": "^3.4.0",
     "@tarojs/webpack-runner": "3.4.0",
     "@types/webpack-env": "^1.13.6",
     "@typescript-eslint/eslint-plugin": "^2.x",
